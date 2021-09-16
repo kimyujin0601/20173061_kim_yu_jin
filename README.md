@@ -15,3 +15,5 @@
 <img width="400" height="700" src="./png/2주차과제.png"></img>
 
 ## 3주차 과제
+<img width="400" height="700" src="./png/네이버.png"></img>
+<img width="400" height="700" src="./png/전화.png"></img>
