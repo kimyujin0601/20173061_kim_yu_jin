@@ -31,3 +31,6 @@
 <img width="400" height="700" src="./png/5주차2.png"></img>
 ## 6주차 과제
 <img width="400" height="700" src="./png/6주차.png"></img>
+
+## 7주차 과제
+<img width="400" height="700" src="./png/7주차.png"></img>
